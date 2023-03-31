@@ -1,0 +1,12 @@
+*.class
+
+*.iml
+
+gradle_build/
+
+build/
+target/
+
+.gradle/
+gradle/
+.idea/
